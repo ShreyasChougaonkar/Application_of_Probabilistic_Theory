@@ -1,4 +1,5 @@
 #Application-of-Probabilistic-Theory
+
 This project explores the relationship between Game Theory and Probability & Statistics, emphasizing their applications in various domains. By utilizing Python libraries, the project develops models that demonstrate the practical interconnections between these fields.
 
 Key Objectives
